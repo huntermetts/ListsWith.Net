@@ -1,0 +1,11 @@
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/bin/Debug/netcoreapp2.2/C#Lists.deps.json
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/bin/Debug/netcoreapp2.2/C#Lists.runtimeconfig.json
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/bin/Debug/netcoreapp2.2/C#Lists.runtimeconfig.dev.json
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/bin/Debug/netcoreapp2.2/C#Lists.dll
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/bin/Debug/netcoreapp2.2/C#Lists.pdb
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/obj/Debug/netcoreapp2.2/C#Lists.csprojAssemblyReference.cache
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/obj/Debug/netcoreapp2.2/C#Lists.csproj.CoreCompileInputs.cache
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/obj/Debug/netcoreapp2.2/C#Lists.AssemblyInfoInputs.cache
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/obj/Debug/netcoreapp2.2/C#Lists.AssemblyInfo.cs
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/obj/Debug/netcoreapp2.2/C#Lists.dll
+/Users/HunterMetts/workspace/backendWorkspace/C#Lists/obj/Debug/netcoreapp2.2/C#Lists.pdb
